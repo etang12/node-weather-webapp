@@ -1,5 +1,3 @@
-console.log('Client side javascript is loaded!')
-
 //select form/input from index.hbs file, input - stores user input
 const weatherForm = document.querySelector('form')
 const searchElement = document.querySelector('input')
